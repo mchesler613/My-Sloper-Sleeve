@@ -1,0 +1,1 @@
+var capitalize;(function(){var _0x2078C=["toUpperCase","charAt","substring"];function _0x207A7(_0x207A7){return _0x207A7!= null?_0x207A7[_0x2078C[1]](0)[_0x2078C[0]]()+ _0x207A7[_0x2078C[2]](1):_0x207A7}capitalize= _0x207A7;})()
